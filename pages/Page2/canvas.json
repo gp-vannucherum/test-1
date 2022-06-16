@@ -57,6 +57,7 @@
               },
               "animateLoading": true,
               "parentColumnSpace": 19.796875,
+              "dynamicTriggerPathList": [],
               "leftColumn": 24,
               "dynamicBindingPathList": [
                 {
@@ -102,7 +103,7 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "yAxisName": "Revenue($)",
-              "chartName": "Sales Report",
+              "chartName": "Sales Reportt",
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "xAxisName": "Product Line",
               "chartType": "COLUMN_CHART"
