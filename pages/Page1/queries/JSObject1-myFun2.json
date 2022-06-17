@@ -16,7 +16,7 @@
     "pageId": "Page1",
     "collectionId": "Page1_JSObject1",
     "actionConfiguration": {
-      "timeoutInMillisecond": 10000,
+      "timeoutInMillisecond": 0,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "body": "async () => {\n\t\t//use async-await or promises\n\t}",
@@ -43,5 +43,5 @@
   },
   "id": "Page1_JSObject1.myFun2",
   "deleted": false,
-  "gitSyncId": "62aafd400f414d42e8ece8f8_62ac0c95222d2033cd4ae9b9"
+  "gitSyncId": "62aafd400f414d42e8ece8f8_62ac0d0a222d2033cd4ae9c8"
 }
